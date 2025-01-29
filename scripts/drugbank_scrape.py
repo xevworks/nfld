@@ -41,4 +41,4 @@ def scrape_drugbank(drug_id):
 
     return name_text, desc_text, us_approved_text
     
-scrape_drugbank("DB00001")
+# scrape_drugbank("DB00001") // Example usage
